@@ -1,0 +1,12 @@
+{
+  "name": "Student Learning Portal",
+  "description": "An organized workspace for students with built-in learning tools, games, and a secure browsing experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "full_stack"
+  ]
+}
